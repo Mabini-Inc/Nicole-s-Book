@@ -1,5 +1,6 @@
 {
-  "appId": "com.nicolebookshop.app",
+  "appId": "com.nicole.book",
   "appName": "Nicole's Book",
-  "webDir": "."
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
